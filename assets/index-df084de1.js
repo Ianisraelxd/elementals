@@ -18557,7 +18557,7 @@ const Ft = [
                       children: [
                         s.jsx("img", {
                           className: "w-96 rounded-xl my-5",
-                          src: "https://www.realsimple.com/thmb/4Uxr_CKC7aR-UhEicIvVqLaiO0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-488636063-5ab2dbd8a8ff48049cfd36e8ad841ae5.jpg",
+                          src: "https://www.eatingwell.com/thmb/qtP5zJfjZjS_6lkAGjOoH2XDNEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mineral-water-8cc11cec12c7471bac9378fa9757c83f.jpg",
                         }),
                         s.jsx("p", { children: "H2O" }),
                         "Water is a transparent, tasteless, odorless, and nearly colorless chemical compound. It is the chemical substance with the chemical formula H2O.",
